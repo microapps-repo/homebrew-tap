@@ -1,8 +1,8 @@
 cask "micronotch" do
-  version "1.1.6.1,1001009"
-  sha256 "ca0efa12618127438368ab06025b47c52774f7dfeeb98c08a9c87b0f7ebbc38f"
+  version "1.1.6.2,1001011"
+  sha256 "f1423b4ba1c893547effcfec917bc84a242c1a6bfd27fe9c7375c32055dec19b"
 
-  url "https://t7bzmkmvovzpbsyw.public.blob.vercel-storage.com/MicroNotch-#{version.csv.first}-terminal.dmg"
+  url "https://t7bzmkmvovzpbsyw.public.blob.vercel-storage.com/MicroNotch-#{version.csv.first}.dmg"
   name "MicroNotch"
   desc "Utilities and activity controls for the MacBook notch"
   homepage "https://micronotch.app/"
